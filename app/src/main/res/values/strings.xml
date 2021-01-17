@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GBKApp</string>
+    <string name="draw">Draw</string>
+    <string name="player2_win">Player 2 WIN</string>
+    <string name="player1_win">Player 1 WIN</string>
+    <string name="vs">VS</string>
+    <string name="com">Com</string>
+    <string name="user">User</string>
+    <string name="todo">TODO</string>
+    <string name="rps">Rock Paper Scissor</string>
+</resources>
